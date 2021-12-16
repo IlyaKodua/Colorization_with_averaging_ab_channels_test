@@ -6,7 +6,7 @@ Link to weigths of colorizator https://drive.google.com/file/d/1m6TTc0K8v-d4hFJB
 
 train scheme
 
-![Blank diagram](https://user-images.githubusercontent.com/82718432/146439923-e1c46d15-23cc-4d5f-9700-9ceb485e5ae0.png)
+![Blank diagram (1)](https://user-images.githubusercontent.com/82718432/146444976-c8fba4ec-164e-4948-85b0-24603198352e.png)
 
 EXAMPLE
 
