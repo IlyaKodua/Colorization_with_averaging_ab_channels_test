@@ -15,3 +15,9 @@ output image
 
 ![image](https://user-images.githubusercontent.com/82718432/146425831-9a15d4e4-ff26-4365-8941-bf3c6dd24989.png)
 
+
+train scheme
+
+![Blank diagram](https://user-images.githubusercontent.com/82718432/146435123-97c0cef9-2890-4db1-945e-84dabe0b2f36.jpeg)
+
+
