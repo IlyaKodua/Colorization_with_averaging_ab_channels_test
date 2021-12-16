@@ -1,4 +1,4 @@
-# colorizator_to_use
+# Colorization with averaging ab channels
 
 Link to train repository https://github.com/IlyaKodua/colorization_with_mask
 
